@@ -1,12 +1,12 @@
 ---
-title       : Test title
+title       : Testing
 subtitle    : subtest title
 author      : me
 job         : internet
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
+widgets     : [bootstrap, mathjax, quiz]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
@@ -22,6 +22,54 @@ knit        : slidify::knit2slides
 ## Slide 2
 
 Test slide 2
+
+$x^2$
+
+$$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
+
+--- &radio
+
+## Slide 3
+
+## Question 1
+
+ What is 1 + 1?
+
+1. 1
+2. _2_
+3. 3
+4. 4
+
+*** .hint 
+
+This is a hint
+
+*** .explanation 
+
+This is an explanation
+
+---
+
+## Slide 4
+```{r,echo=FALSE}
+sum(1:10)
+10*(11)/2
+```
+
+
+```{r,echo=TRUE, results='hide'}
+sum(1:10)
+10*(11)/2
+```
+
+
+```
+
+1+1
+
+```
+
+
 
 
 

@@ -1,0 +1,26 @@
+journal	NGS_publications	Total_publications
+Vaccine	3049	16034
+PLoS One	1548	82910
+Hum Vaccin Immunother	927	799
+J Infect Dis	398	18806
+J Virol	397	36006
+Expert Rev Vaccines	393	1398
+Clin Vaccine Immunol	375	2234
+J Immunol	246	49651
+Pediatr Infect Dis J	229	9194
+Cancer Immunol Immunother	200	3855
+MMWR Morb Mortal Wkly Rep	178	6332
+Pediatrics	178	26110
+BMC Infect Dis	171	2693
+BMC Public Health	163	6146
+Clin Infect Dis	159	15954
+PLoS Negl Trop Dis	153	2377
+Euro Surveill	152	2757
+BMJ	146	77903
+Lancet Infect Dis	144	2659
+Methods Mol Biol	141	26449
+Lancet	137	86526
+Wkly Epidemiol Rec	134	2270
+Hum Vaccin	132	770
+Immunotherapy	131	675
+Proc Natl Acad Sci U S A	128	93538
